@@ -1,0 +1,14 @@
+{
+  "_cts": {
+    "space-travelling-posts": {
+      "content": {
+        "body": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    }
+  }
+}
